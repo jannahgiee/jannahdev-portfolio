@@ -145,7 +145,7 @@ export const socialLinks = [
 export const projects = [
   {
     thumbnail: dohle,
-    name: 'Dohle ShipManagement',
+    name: 'Dohle Shipmanagement',
     description:
       'The web application serves as a platform for applicants interested in maritime careers, providing them with a seamless experience to apply for various positions within the company. It integrates Angular for the frontend development, C# with .NET for the backend, Azure for cloud services, and Docker for containerization, ensuring scalability, flexibility, and ease of deployment',
     link: 'https://www.doehle-mnl.com/',
