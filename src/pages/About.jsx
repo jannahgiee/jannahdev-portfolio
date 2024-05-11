@@ -49,7 +49,7 @@ const About = () => {
         </section>
       </article>
       <article className="py-16 border-b-4 border-b-slate-200">
-        <h3 className="subhead-text">Tech Experience</h3>
+        <h3 className="subhead-text">Work Experience</h3>
         <section className="mt-12 flex">
           <VerticalTimeline>
             {experiences &&
