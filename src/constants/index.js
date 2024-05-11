@@ -1,4 +1,4 @@
-import { circleBlue, appleAppMockup, artMockup, dohle } from '../assets/images'
+import { dohle } from '../assets/images'
 
 import {
   azure,
@@ -15,17 +15,9 @@ import {
   net,
   nodejs,
   postman,
-  react,
   realpage,
-  redux,
-  sass,
-  
   schneider,
-  
   sql,
-  
-  tailwindcss,
-  typescript,
 } from '../assets/icons'
 
 export const skills = [

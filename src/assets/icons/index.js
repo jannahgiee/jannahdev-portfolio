@@ -4,11 +4,6 @@ import github from './github.svg'
 import html from './html.svg'
 import javascript from './javascript.svg'
 import nodejs from './nodejs.svg'
-import react from './react.svg'
-import redux from './redux.svg'
-import sass from './sass.svg'
-import tailwindcss from './tailwindcss.svg'
-import typescript from './typescript.svg'
 import linkedin from './linkedin.svg'
 import car from './car.svg'
 import estate from './estate.svg'
@@ -49,11 +44,6 @@ export {
   html,
   javascript,
   nodejs,
-  react,
-  redux,
-  sass,
-  tailwindcss,
-  typescript,
   linkedin,
   car,
   estate,

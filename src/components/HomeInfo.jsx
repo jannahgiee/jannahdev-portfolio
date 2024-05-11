@@ -23,7 +23,7 @@ const renderContent = {
           </span>
         </h1>
         <h2 className="text-lg">
-          +6 year of experience as a Software Engineer based in Manila,
+          +5 year of experience as a Software Engineer based in Manila,
           Philippines.
         </h2>
         <section className="flex gap-4 items-center justify-center mt-4">
