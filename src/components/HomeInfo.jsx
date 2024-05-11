@@ -19,12 +19,12 @@ const renderContent = {
         <h1>
           Hello World! I'm{' '}
           <span className="text-lg md:text-2xl font-semibold">
-            Erick García
+            Jannah Gilleine
           </span>
         </h1>
         <h2 className="text-lg">
-          +1 year of experience as a Frontend Developer based in Monterrey,
-          México.
+          +6 year of experience as a Software Engineer based in Manila,
+          Philippines.
         </h2>
         <section className="flex gap-4 items-center justify-center mt-4">
           {socialLinks.map((link) => (
@@ -75,7 +75,7 @@ const renderContent = {
   ),
   4: (
     <InfoBox
-      text="Need a project done or looking for a frontend developer?"
+      text="Need a project done or looking for a Software Engineer?"
       link="/contact"
       btnText="Contact me"
     />

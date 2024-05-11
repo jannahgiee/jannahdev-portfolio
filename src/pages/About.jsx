@@ -17,10 +17,11 @@ const About = () => {
         </h1>
         <div className="[&>p]:mb-4">
           <p className="text-slate-500 text-balance">
-            I'm Erick! I've a degree in International Business and after years
-            in the field I transitioned into the world of Programming. Ever
-            since, I enjoy creating web experiences for the users.
-          </p>
+        I'm Jannah, a seasoned .NET developer proficient in JavaScript, Java, C#,
+        Git, GitLab, MS SQL, Agile methodologies, REST APIs, Entity Framework, unit testing, 
+        integration testing, and CI/CD pipelines, committed to continuous learning and growth in software development, 
+        with a strong grasp of business processes and requirements.
+        </p>
         </div>
       </section>
       <article className="py-10 flex flex-col">
