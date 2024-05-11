@@ -5,7 +5,7 @@ import { Home, About, Projects, Contact } from './pages'
 const App = () => {
   return (
     <main className="bg-slate-300/20 h-full">
-      <BrowserRouter basename="/portfolio">
+      <BrowserRouter basename="jannahdev-portfolio">
         <Nav />
         <Routes>
           <Route path="/" element={<Home />} />
