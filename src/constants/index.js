@@ -107,7 +107,7 @@ export const experiences = [
     company_name: 'Doehle Shipment Management',
     icon: doehle,
     iconBg: '#accbe1',
-    date: 'May 2021 - Current',
+    date: 'May 2021 - Present',
     points: [
       'Developing C# .NET Core programs using REST API, Azure Active Directory authentication, Docker deployment, GitLab CI/CD, Postman for API requests, Azure deployments, SendGrid integration, Entity Framework Code First approach, XUnit Integration Tests, MsSQL database, and Scrum Agile Methodology, having contributed to projects such as the Seafarer Application Website Version 2 and NAVIDO 2.0 ERP System, encompassing functionalities ranging from bug fixes to new module development and integration.',
     ],
