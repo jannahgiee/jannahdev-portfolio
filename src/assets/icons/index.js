@@ -1,6 +1,7 @@
 import css from './css.svg'
 import git from './git.svg'
 import github from './github.svg'
+import gitlab from './gitlab.png'
 import html from './html.svg'
 import javascript from './javascript.svg'
 import nodejs from './nodejs.svg'
@@ -20,10 +21,13 @@ import docker from './docker.png'
 import postman from './postman.jpg'
 import azure from './azure.png'
 import jira from './jira.png'
+import java from './java.png'
 
 
 export {
+
   jira,
+  java,
   azure,
   postman,
   docker,
@@ -36,6 +40,7 @@ export {
   css,
   git,
   github,
+  gitlab,
   html,
   javascript,
   nodejs,

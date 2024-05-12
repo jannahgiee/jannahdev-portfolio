@@ -8,7 +8,9 @@ import {
   doehle,
   git,
   github,
+  gitlab,
   html,
+  java,
   javascript,
   jira,
   linkedin,
@@ -40,28 +42,16 @@ export const skills = [
     type: 'Frontend',
   },
   {
-    id: 'git',
-    imageUrl: git,
-    name: 'Git',
-    type: 'Version Control',
-  },
-   {
-    id: 'jira',
-    imageUrl: jira,
-    name: 'jira',
-    type: 'Version Control',
-  },
-  {
-    id: 'github',
-    imageUrl: github,
-    name: 'GitHub',
-    type: 'Version Control',
-  },
-  {
     id: 'nodejs',
     imageUrl: nodejs,
     name: 'Node.js',
     type: 'Backend',
+  },
+  {
+    id: 'java',
+    imageUrl: java,
+    name: 'java',
+    type: 'Frontend',
   },
   {
     id: 'csharp',
@@ -69,36 +59,60 @@ export const skills = [
     name: 'csharp',
     type: 'Frontend',
   },
-   {
-    id: 'net',
-    imageUrl: net,
-    name: 'net',
-    type: 'Frontend',
+  {
+   id: 'net',
+   imageUrl: net,
+   name: 'net',
+   type: 'Frontend',
+ },
+ {
+  id: 'sql',
+  imageUrl: sql,
+  name: 'sql',
+  type: 'Frontend',
+},
+{
+  id: 'azure',
+  imageUrl: azure,
+  name: 'azure',
+  type: 'Frontend',
+},
+ {
+  id: 'docker',
+  imageUrl: docker,
+  name: 'docker',
+  type: 'Frontend',
+},
+  {
+    id: 'git',
+    imageUrl: git,
+    name: 'Git',
+    type: 'Version Control',
   },
   {
-    id: 'azure',
-    imageUrl: azure,
-    name: 'azure',
-    type: 'Frontend',
+   id: 'gitlab',
+   imageUrl: gitlab,
+   name: 'gitlab',
+   type: 'Version Control',
+ },
+  {
+    id: 'github',
+    imageUrl: github,
+    name: 'GitHub',
+    type: 'Version Control',
   },
-   {
+  {
     id: 'postman',
     imageUrl: postman,
     name: 'postman',
     type: 'Frontend',
   },
-   {
-    id: 'docker',
-    imageUrl: docker,
-    name: 'docker',
-    type: 'Frontend',
-  },
-   {
-    id: 'sql',
-    imageUrl: sql,
-    name: 'sql',
-    type: 'Frontend',
-  },
+  {
+   id: 'jira',
+   imageUrl: jira,
+   name: 'jira',
+   type: 'Version Control',
+ },
 ]
 
 export const experiences = [
