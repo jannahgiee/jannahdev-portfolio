@@ -147,7 +147,7 @@ export const projects = [
     thumbnail: dohle,
     name: 'Join Doehle',
     description:
-      'www.JoinDoehle.com is the application portal for seafarers of Peter Döhle Schiffahrts-KG, Hamburg, Germany, with the possibility to apply within the Döhle Group worldwide. The web application serves as a platform for applicants interested in maritime careers, providing them with a seamless experience to apply for various positions within the company. It integrates Angular for the frontend development, C# with .NET for the backend, Azure for cloud services, and Docker for containerization, ensuring scalability, flexibility, and ease of deployment',
+      'The web application serves as a portal for applicants interested in maritime careers, providing them with a seamless experience to apply for various positions within the company. It integrates Angular for the frontend development, C# with .NET for the backend, Azure for cloud services, and Docker for containerization, ensuring scalability, flexibility, and ease of deployment',
     link: 'https://www.joindoehle.com/auth/home',
   },
 ]
