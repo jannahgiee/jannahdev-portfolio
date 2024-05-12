@@ -11,11 +11,14 @@ const App = () => {
       <BrowserRouter basename="/jannahdev-portfolio">
         <Nav />
         <Routes>
-          <Route path="/" element={<Layout />} />
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route path="/contact" element={<Contact />} />
+          {/* Use Layout component for all routes */}
+          <Route path="/" element={<Layout />}>
+            {/* Render the Home component inside the Layout */}
+            <Route index element={<Home />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/projects" element={<Projects />} />
+            <Route path="/contact" element={<Contact />} />
+          </Route>
         </Routes>
       </BrowserRouter>
     </main>
